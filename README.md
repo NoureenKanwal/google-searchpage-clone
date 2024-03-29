@@ -1,1 +1,1 @@
-# google-home-clone
+# google-home-clone learn from Scrimba
